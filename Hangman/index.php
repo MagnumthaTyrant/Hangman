@@ -3,9 +3,9 @@
     <head>
         <title> Hangman Game </title>
       <link href="CSS/default.css" rel="stylesheet" type="text/css">
-      <script>$(document).ready(function(){
-   alert("Alert");
-});</script>
+      <script src="JS/main.js">
+    // main.js contains all th ejavascript for this game.
+    </script>
       <script src="JS/jquery-1.11.0.min.js"></script>
       
     </head>
